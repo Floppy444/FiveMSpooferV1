@@ -3,7 +3,7 @@
 
 
 
-Simple Spoofer Made with Python :)
+Made with Python :)
 
 You Will Need to run the Programme as Admin for this to Work!.
 
