@@ -1,0 +1,25 @@
+Step One - Discord
+1. Open Discord
+2. Go to settings.
+3. Then to authorised apps.
+4. If FiveM is present there, remove it.
+
+Step Two - Spoofer
+1. Open the Spoofer as admin.
+2. Run the Spoofer (should only take about 3-5 seconds)
+
+Step Three - Steam
+1. Log into a new steam account.
+
+Step Four - Final Steps
+1. Make sure you're in a new Steam account.
+2. Turn on a VPN. Use Freedome
+3. Open FiveM, and log into a new Rock* account. (You do not need to buy a new copy of GTA 5, just purchase a new rockstar account)
+4. You should now be unbanned. If you have any issues feel free to DM me.
+This can bypass Chocohax/ATG Global Bans too!
+- To do so, ensure you stay on your VPN while connecting to a server with aforementioned anticheats. 
+- Don't connect to any servers until your IP changes.
+- Unfortunately, you'll lose all of your data. But if you really wanna bypass, it works
+
+
+>>>> This Unban Method Only Works For Server Bans ^ <<<<
