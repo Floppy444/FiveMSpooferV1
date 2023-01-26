@@ -5,6 +5,8 @@
 
 Simple Spoofer Made with Python :)
 
+You Will Need to run the Programme as Admin for this to Work!.
+
 i left BasicUI.py inside the file as this spoofer is built with tkinter.
 
 what is tkinter? tkinter is a Standard GUI Library for Python.
