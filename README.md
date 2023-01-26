@@ -22,3 +22,4 @@ This spoofer/cleaner wipes all your cache, blocks xbox live and removes everythi
 Also unbans fiveeye anticheat bans.
 
 
+![Capture](https://user-images.githubusercontent.com/123610758/214798409-1b120455-b74a-4070-9059-3fb01f780781.png)
